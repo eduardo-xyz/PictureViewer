@@ -1,0 +1,9 @@
+C:\Work\DotNet\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Work\DotNet\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Work\DotNet\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Work\DotNet\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Pictures.resources
